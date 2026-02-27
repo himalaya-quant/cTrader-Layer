@@ -1,3 +1,7 @@
+1.3.1 - 27-02-2026
+===================
+* Update protobuf messages with new ones from Spotware
+
 1.3.0 - 06-07-2021
 ===================
 * Create internal decoding of payload type.
